@@ -1,6 +1,6 @@
 <h1>Picture in Picture</h1>
 <div>
-  <img src="" />
+  <img src="https://media.giphy.com/media/Wd4lzdaS8Iomcd7roo/giphy.gif" />
 </div>
 </br></br>
 <p>This is a fun project and I use it to watch videos from youtube while surfing the web for answers :)</p>
