@@ -11,6 +11,8 @@ body {
   justify-content: center;
   align-items: center;
   background: whitesmoke;
+  display: flex;
+  flex-direction: column;
 }
 
 .button-container {
