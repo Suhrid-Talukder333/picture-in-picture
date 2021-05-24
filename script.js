@@ -17,7 +17,6 @@ const selectMediaStream = async () => {
 selectMediaStream();
 
 buttonElement.addEventListener("click", async () => {
-  videoELement.hidden = false;
   buttonElement.disabled = true;
   await videoElement.requestPictureInPicture();
   buttonElement.disabled = false;
