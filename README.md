@@ -10,6 +10,10 @@
 It seems that the media screen share in firefox doesn't show other windows in screen share prompt. To use this for your own
 use chrome or brave browser.
 
+## Live Website
+
+https://pictureinpicture-suhrid.netlify.app/
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
